@@ -3,6 +3,14 @@
 The purpose of this study is to gather past data on start-ups in India to better understand 
 how, and which future companies will be funded.
 
+Using this data:
+https://www.kaggle.com/paree24/india-gdp-growth-world-bank-1961-to-2017
+ 
+https://rbi.org.in/Scripts/PublicationsView.aspx?id=20006
+
+https://www.statisticstimes.com/economy/comparing-indian-states-and-countries-by-gdp.php
+
+
 In https://github.com/ptlong11/DataScienceGuidedCapstone/blob/master/2nd%20capstone%20(1).ipynb we understand the Indian state most of the startup
 funding is going to. The states with the most start-ups funded are Bengaluru, Mumbai, and Delhi.
 
