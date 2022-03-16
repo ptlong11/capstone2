@@ -1,7 +1,7 @@
 # Indian_Start_up
 
 The purpose of this study is to gather past data on start-ups in India to better understand 
-how, and which future companies will be funded.
+how, and where future companies will be funded.
 
 Using this data:
 https://www.kaggle.com/paree24/india-gdp-growth-world-bank-1961-to-2017
