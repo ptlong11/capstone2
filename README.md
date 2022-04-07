@@ -10,39 +10,31 @@ how, and where future companies will be funded.
 
 Pre-Project: 
 1.Project ideas
-
 [Link](https://github.com/ptlong11/capstone2/blob/main/_Project%20Ideas_.pdf)
 
 2.Project-Proposal:
-
 [Link](https://github.com/ptlong11/capstone2/blob/main/Project%20Proposals.pdf)
 
 Project:
 
 1.Data Wrangling
-
 [Code](https://github.com/ptlong11/capstone2/blob/main/Capstone%20Two%20-%20Data%20Wrangling%20(3).ipynb)
 
 2.Exploratory Data Analysis
-
 [Code](https://github.com/ptlong11/capstone2/blob/main/Exploratory%20Data%20Analysis%20(1).ipynb)
 
 3.Pre-Processing
-
 [Code](https://github.com/ptlong11/capstone2/blob/main/Capstone%20Two%20-%20Pre-processing%20and%20Training%20Data%20Development%20(3).ipynb)
 
 4.Modeling
-
 [Code](https://github.com/ptlong11/capstone2/blob/main/Capstone%20Two%20-%20Modeling%20(2).ipynb)
 
 Post-Project Summary and write-up:
 
 1.Powerpoint
-
 [Link](https://github.com/ptlong11/capstone2/blob/main/Start%20ups%20in%20India.pptx)
 
 2.Project Write-up
-
 [Link](https://github.com/ptlong11/capstone2/blob/main/Startups%20in%20India.pdf)
 
 
