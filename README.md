@@ -1,8 +1,20 @@
 # Indian_Start_up
 
 Overview:
+
 The purpose of this study is to gather past data on start-ups in India to better understand 
 how, and where future companies will be funded.
+
+Pre-Project: 
+1.Project ideas
+
+[Link](https://github.com/ptlong11/capstone2/blob/main/_Project%20Ideas_.pdf)
+
+2.Project-Proposal:
+
+[Link](https://github.com/ptlong11/capstone2/blob/main/Project%20Proposals.pdf)
+
+Project:
 
 1.Data Wrangling
 
@@ -20,10 +32,21 @@ how, and where future companies will be funded.
 
 [Code](https://github.com/ptlong11/capstone2/blob/main/Capstone%20Two%20-%20Modeling%20(2).ipynb)
 
-Summary
+Post-Project Summary and write-up:
 
-We understand the Indian state most of the startup
-funding is going to. The states with the most start-ups funded are Bengaluru, Mumbai, and Delhi.
+1.Powerpoint
+
+[Link](https://github.com/ptlong11/capstone2/blob/main/Start%20ups%20in%20India.pptx)
+
+2.Project Write-up
+
+[Link](https://github.com/ptlong11/capstone2/blob/main/Startups%20in%20India.pdf)
+
+![image](https://user-images.githubusercontent.com/88256932/162105997-c8575898-e8f1-44c7-ae47-fa4808efa158.png)
+
+
+Prelimiary look into the Indian start up funding scence gives us a look that appears that the
+funding is going to Bengaluru, Mumbai, and Delhi.
 
 Next, we find the industries that are being funded the most, the amount they are being funded, and where the fudning is coming from. Some of the top places start-ups are getting funding from are seed funding. There are over 170 unique industries that these start ups are part of.
 Something to note. I wanted to make sure that the start-ups were being grouped into each state, so in the data from the Data sets, the start-ups were grouped per city, I coded each city to their respective state.
