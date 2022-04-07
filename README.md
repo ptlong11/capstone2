@@ -5,15 +5,19 @@ The purpose of this study is to gather past data on start-ups in India to better
 how, and where future companies will be funded.
 
 1.Data Wrangling
+
 [Code](https://github.com/ptlong11/capstone2/blob/main/Capstone%20Two%20-%20Data%20Wrangling%20(3).ipynb)
 
 2.Exploratory Data Analysis
+
 [Code](https://github.com/ptlong11/capstone2/blob/main/Exploratory%20Data%20Analysis%20(1).ipynb)
 
 3.Pre-Processing
+
 [Code](https://github.com/ptlong11/capstone2/blob/main/Capstone%20Two%20-%20Pre-processing%20and%20Training%20Data%20Development%20(3).ipynb)
 
 4.Modeling
+
 [Code](https://github.com/ptlong11/capstone2/blob/main/Capstone%20Two%20-%20Modeling%20(2).ipynb)
 
 Summary
