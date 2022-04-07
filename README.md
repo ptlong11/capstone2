@@ -1,5 +1,8 @@
 # Indian_Start_up
 
+![image](https://user-images.githubusercontent.com/88256932/162106083-fa10e5ab-aa05-4cb6-809c-64fed9aa64b9.png)
+
+
 Overview:
 
 The purpose of this study is to gather past data on start-ups in India to better understand 
@@ -41,8 +44,6 @@ Post-Project Summary and write-up:
 2.Project Write-up
 
 [Link](https://github.com/ptlong11/capstone2/blob/main/Startups%20in%20India.pdf)
-
-![image](https://user-images.githubusercontent.com/88256932/162105997-c8575898-e8f1-44c7-ae47-fa4808efa158.png)
 
 
 Prelimiary look into the Indian start up funding scence gives us a look that appears that the
