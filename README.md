@@ -9,6 +9,7 @@ The purpose of this study is to gather past data on start-ups in India to better
 how, and where future companies will be funded.
 
 Pre-Project: 
+
 1.Project ideas
 [Link](https://github.com/ptlong11/capstone2/blob/main/_Project%20Ideas_.pdf)
 
